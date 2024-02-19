@@ -126,3 +126,10 @@ body {
   .addBtn:hover {
     background-color: #bbb;
   }
+  @media screen and (min-width:200px) and (max-width:768px) { */
+    body{
+        width: auto;
+        height: auto;
+        display: block; 
+    } 
+}
